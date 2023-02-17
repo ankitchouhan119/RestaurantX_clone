@@ -129,7 +129,7 @@
       },
       "property": {
         "styles": {
-          "paddingTop": "7px",
+          "paddingTop": "",
           "fontFamily": "IBM Plex Sans",
           "fontSize": "22.5px",
           "color": "",
@@ -179,7 +179,7 @@
           "fontFamily": "IBM Plex Sans",
           "fontWeight": "normal",
           "fontSize": "22.5px",
-          "paddingTop": "7px",
+          "paddingTop": "",
           "color": "#696969ff",
           "borderColor": "#696969ff"
         }
@@ -226,7 +226,7 @@
         "styles": {
           "fontSize": "22.5px",
           "fontFamily": "IBM Plex Sans",
-          "paddingTop": "7px",
+          "paddingTop": "",
           "color": "#696969ff",
           "outlineColor": "#696969ff"
         }
@@ -271,7 +271,7 @@
       },
       "property": {
         "styles": {
-          "width": "320px",
+          "width": "300px",
           "height": "",
           "cursor": "pointer"
         }
@@ -328,7 +328,7 @@
           "fontFamily": "IBM Plex Sans",
           "fontWeight": "",
           "fontSize": "22.5px",
-          "paddingTop": "7px",
+          "paddingTop": "",
           "width": "",
           "cursor": "pointer",
           "borderColor": "#696969ff"
@@ -376,7 +376,7 @@
           "fontFamily": "IBM Plex Sans",
           "fontWeight": "",
           "fontSize": "22.5px",
-          "paddingTop": "7px",
+          "paddingTop": "",
           "width": "",
           "cursor": "pointer",
           "color": "#696969ff"
@@ -454,7 +454,7 @@
           "fontSize": "20px",
           "alignContent": "stretch",
           "flexWrap": "nowrap",
-          "alignItems": "stretch",
+          "alignItems": "center",
           "alignSelf": "center"
         }
       }
@@ -484,7 +484,8 @@
           "paddingBottom": "50px",
           "fontFamily": "IBM Plex Sans",
           "position": "sticky",
-          "backgroundColor": ""
+          "backgroundColor": "",
+          "width": ""
         }
       },
       "breakpoints": {
@@ -506,7 +507,7 @@
     "refId": "c7331e07-2849-498f-889b-6dcec467bc5c"
   },
   {
-    "id": "1b927107-07cd-4412-ad94-6bb4d0876d63",
+    "id": "9a512eb4-7512-44ba-a5c0-924e18ceed18",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -528,10 +529,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "220e189c-3b3e-4a32-b722-7e43cc3e1aef",
-    "childId": "1b927107-07cd-4412-ad94-6bb4d0876d63"
+    "childId": "9a512eb4-7512-44ba-a5c0-924e18ceed18"
   },
   {
-    "id": "d770cda4-8c00-4f7f-a81c-473710cadca2",
+    "id": "97f8dfcb-4102-4d43-9268-a2fe98191daf",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -553,10 +554,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "3dc8ee3e-9771-46ee-b361-df0fe9f93ecf",
-    "childId": "d770cda4-8c00-4f7f-a81c-473710cadca2"
+    "childId": "97f8dfcb-4102-4d43-9268-a2fe98191daf"
   },
   {
-    "id": "04c13d9c-34a8-4953-aa4f-2b01829385ab",
+    "id": "dbf08a59-d4bf-4d20-b0e8-8e90f1245755",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -581,10 +582,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "5127dd45-0a56-40d4-8a7d-ed698a1d5e33",
-    "childId": "04c13d9c-34a8-4953-aa4f-2b01829385ab"
+    "childId": "dbf08a59-d4bf-4d20-b0e8-8e90f1245755"
   },
   {
-    "id": "6216209d-8a7d-4257-8f64-0ff88cb08399",
+    "id": "14754d57-83d2-4d5c-9b75-1d952da912f9",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -609,10 +610,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "169c5570-5156-4a1b-b04b-a26020b8c2a9",
-    "childId": "6216209d-8a7d-4257-8f64-0ff88cb08399"
+    "childId": "14754d57-83d2-4d5c-9b75-1d952da912f9"
   },
   {
-    "id": "4ddaf29f-7895-490d-9c35-f712e23a159e",
+    "id": "16dadcc4-67a7-4e1f-a13c-91e117a44bde",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -637,10 +638,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "a3b3c8ac-bb88-4b97-b25c-b2199dfeef1e",
-    "childId": "4ddaf29f-7895-490d-9c35-f712e23a159e"
+    "childId": "16dadcc4-67a7-4e1f-a13c-91e117a44bde"
   },
   {
-    "id": "cb15e29a-58d7-4a80-bb74-4eebc3eafeeb",
+    "id": "e655bfc5-2aa8-4c92-aa15-46cb5b08832e",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -665,10 +666,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "518a2e63-0acf-4494-b971-47138ded879a",
-    "childId": "cb15e29a-58d7-4a80-bb74-4eebc3eafeeb"
+    "childId": "e655bfc5-2aa8-4c92-aa15-46cb5b08832e"
   },
   {
-    "id": "37a7dbed-4374-48a4-9f4c-c8d50a9bb641",
+    "id": "1ee32833-16d0-4953-944b-ae64dab6349d",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -690,10 +691,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "d280f928-7f92-4075-99f6-23e2f360f03b",
-    "childId": "37a7dbed-4374-48a4-9f4c-c8d50a9bb641"
+    "childId": "1ee32833-16d0-4953-944b-ae64dab6349d"
   },
   {
-    "id": "06fc4961-931f-4bba-abd2-7ff80ab82146",
+    "id": "8d274461-ddd9-4c31-93a7-debaf1903f79",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -711,10 +712,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "7a51fbb9-d405-4843-8883-373b7a142b7c",
-    "childId": "06fc4961-931f-4bba-abd2-7ff80ab82146"
+    "childId": "8d274461-ddd9-4c31-93a7-debaf1903f79"
   },
   {
-    "id": "d2d0907f-ebc5-46de-9457-a9c127f275e9",
+    "id": "7d7ab34b-1e3a-4a49-b499-551ac2c3cf19",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -730,10 +731,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "dab5b8c2-3ad8-4ae5-b8dd-060f3f371471",
-    "childId": "d2d0907f-ebc5-46de-9457-a9c127f275e9"
+    "childId": "7d7ab34b-1e3a-4a49-b499-551ac2c3cf19"
   },
   {
-    "id": "a0891e1c-247f-4bb8-a4aa-3beced93e59e",
+    "id": "4196fab6-7f95-476f-8f00-6e3d21e3c8c3",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -749,10 +750,10 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "ab20da6f-bc9d-4613-b7b8-b2227630a64e",
-    "childId": "a0891e1c-247f-4bb8-a4aa-3beced93e59e"
+    "childId": "4196fab6-7f95-476f-8f00-6e3d21e3c8c3"
   },
   {
-    "id": "1e6e21ed-a5b9-4634-b935-b4a6f78eefda",
+    "id": "bc8f75a8-4346-49c9-9104-ef260ef2457c",
     "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "meta": {},
     "state": {
@@ -768,7 +769,7 @@
   {
     "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
     "refId": "c7331e07-2849-498f-889b-6dcec467bc5c",
-    "childId": "1e6e21ed-a5b9-4634-b935-b4a6f78eefda"
+    "childId": "bc8f75a8-4346-49c9-9104-ef260ef2457c"
   },
   {
     "id": "220e189c-3b3e-4a32-b722-7e43cc3e1aef",

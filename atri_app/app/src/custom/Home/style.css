@@ -18,30 +18,30 @@ a:link {
     color: #696969;
 }
 
-.p-aboutUs.Flex400 a{
+.p-aboutUs.Flex673 a{
     color: #696969;
 }
 
-.p-aboutUs.Flex400 a:hover{
+.p-aboutUs.Flex673 a:hover{
     color: brown;
 }
-.p-aboutUs.TextBox279:hover{
+.p-aboutUs.TextBox483:hover{
     color: brown;
 }
-.p-aboutUs.TextBox280:hover{
+.p-aboutUs.TextBox484:hover{
     color: brown;
 }
 
-.p-Our_menu.Flex331 a{
+.p-Our_menu.Flex676 a{
     color: #696969;
 }
-.p-Our_menu.Flex331 a:hover{
+.p-Our_menu.Flex676 a:hover{
     color: brown;
 }
-.p-Our_menu.TextBox230:hover{
+.p-Our_menu.TextBox485:hover{
     color: brown;
 }
-.p-Our_menu.TextBox229:hover{
+.p-Our_menu.TextBox486:hover{
     color: brown;
 }
 
@@ -50,30 +50,11 @@ a:link {
     color: #FF7629;
 }
 
-.p-Home.Image1 {  
-    cursor: pointer;
-}
-.p-Home.Image8{
-    width: 500px;
-    height: 500px;
-    border-radius: 50px;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    position: relative;
-    right: 250px;
-}
 
 
 
-.p-Home.Flex35 {
-    
-   
-    position: relative;
-    right: 250px;
-    top: 300px;
-}
+
+
 
 
 

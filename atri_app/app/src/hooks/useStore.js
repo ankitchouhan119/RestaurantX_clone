@@ -46,7 +46,7 @@ const desktopModeProps = {
     "Flex5": {
       "callbacks": {}
     },
-    "h1div": {
+    "Flex499": {
       "callbacks": {}
     },
     "Flex8": {
@@ -118,108 +118,6 @@ const desktopModeProps = {
     "Flex42": {
       "callbacks": {}
     },
-    "Flex43": {
-      "callbacks": {}
-    },
-    "Flex47": {
-      "callbacks": {}
-    },
-    "Flex55": {
-      "callbacks": {}
-    },
-    "Flex56": {
-      "callbacks": {}
-    },
-    "Flex57": {
-      "callbacks": {}
-    },
-    "Flex48": {
-      "callbacks": {}
-    },
-    "Flex59": {
-      "callbacks": {}
-    },
-    "Flex60": {
-      "callbacks": {}
-    },
-    "Flex61": {
-      "callbacks": {}
-    },
-    "Flex50": {
-      "callbacks": {}
-    },
-    "Flex62": {
-      "callbacks": {}
-    },
-    "Flex63": {
-      "callbacks": {}
-    },
-    "Flex64": {
-      "callbacks": {}
-    },
-    "Flex85": {
-      "callbacks": {}
-    },
-    "Flex82": {
-      "callbacks": {}
-    },
-    "Flex83": {
-      "callbacks": {}
-    },
-    "Flex84": {
-      "callbacks": {}
-    },
-    "Flex44": {
-      "callbacks": {}
-    },
-    "Flex65": {
-      "callbacks": {}
-    },
-    "Flex69": {
-      "callbacks": {}
-    },
-    "Flex70": {
-      "callbacks": {}
-    },
-    "Flex71": {
-      "callbacks": {}
-    },
-    "Flex66": {
-      "callbacks": {}
-    },
-    "Flex72": {
-      "callbacks": {}
-    },
-    "Flex73": {
-      "callbacks": {}
-    },
-    "Flex74": {
-      "callbacks": {}
-    },
-    "Flex67": {
-      "callbacks": {}
-    },
-    "Flex75": {
-      "callbacks": {}
-    },
-    "Flex76": {
-      "callbacks": {}
-    },
-    "Flex77": {
-      "callbacks": {}
-    },
-    "Flex68": {
-      "callbacks": {}
-    },
-    "Flex78": {
-      "callbacks": {}
-    },
-    "Flex79": {
-      "callbacks": {}
-    },
-    "Flex80": {
-      "callbacks": {}
-    },
     "Flex45": {
       "callbacks": {}
     },
@@ -242,6 +140,108 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex91": {
+      "callbacks": {}
+    },
+    "Flex612": {
+      "callbacks": {}
+    },
+    "Flex611": {
+      "callbacks": {}
+    },
+    "Flex605": {
+      "callbacks": {}
+    },
+    "Flex606": {
+      "callbacks": {}
+    },
+    "Flex607": {
+      "callbacks": {}
+    },
+    "Flex616": {
+      "callbacks": {}
+    },
+    "Flex613": {
+      "callbacks": {}
+    },
+    "Flex614": {
+      "callbacks": {}
+    },
+    "Flex615": {
+      "callbacks": {}
+    },
+    "Flex620": {
+      "callbacks": {}
+    },
+    "Flex617": {
+      "callbacks": {}
+    },
+    "Flex618": {
+      "callbacks": {}
+    },
+    "Flex619": {
+      "callbacks": {}
+    },
+    "Flex624": {
+      "callbacks": {}
+    },
+    "Flex621": {
+      "callbacks": {}
+    },
+    "Flex622": {
+      "callbacks": {}
+    },
+    "Flex623": {
+      "callbacks": {}
+    },
+    "Flex658": {
+      "callbacks": {}
+    },
+    "Flex654": {
+      "callbacks": {}
+    },
+    "Flex642": {
+      "callbacks": {}
+    },
+    "Flex643": {
+      "callbacks": {}
+    },
+    "Flex644": {
+      "callbacks": {}
+    },
+    "Flex655": {
+      "callbacks": {}
+    },
+    "Flex645": {
+      "callbacks": {}
+    },
+    "Flex646": {
+      "callbacks": {}
+    },
+    "Flex647": {
+      "callbacks": {}
+    },
+    "Flex656": {
+      "callbacks": {}
+    },
+    "Flex648": {
+      "callbacks": {}
+    },
+    "Flex649": {
+      "callbacks": {}
+    },
+    "Flex650": {
+      "callbacks": {}
+    },
+    "Flex657": {
+      "callbacks": {}
+    },
+    "Flex651": {
+      "callbacks": {}
+    },
+    "Flex652": {
+      "callbacks": {}
+    },
+    "Flex653": {
       "callbacks": {}
     },
     "Flex96": {
@@ -386,9 +386,6 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex191": {
-      "callbacks": {}
-    },
-    "Flex170": {
       "callbacks": {}
     },
     "Flex184": {
@@ -1071,398 +1068,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image26": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/chicken%20burger.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox53": {
-      "custom": {
-        "text": "$ 6.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox54": {
-      "custom": {
-        "text": "Chicken Burger"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox61": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image27": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/classic%20burger.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox55": {
-      "custom": {
-        "text": "$ 9.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox56": {
-      "custom": {
-        "text": "Classic Burger"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox62": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image28": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/classic%20fries.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox58": {
-      "custom": {
-        "text": "$ 5.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox59": {
-      "custom": {
-        "text": "Classic Fries"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox63": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image34": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/chocolate%20milkshake.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox81": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox82": {
-      "custom": {
-        "text": "Choclate Milkshake"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox83": {
-      "custom": {
-        "text": "$ 6.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image30": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/ice%20cream.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox66": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox65": {
-      "custom": {
-        "text": "Ice Cream"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox64": {
-      "custom": {
-        "text": "$ 3.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image31": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/pancakes.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox67": {
-      "custom": {
-        "text": "$ 8.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox68": {
-      "custom": {
-        "text": "Pancakes"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox69": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image32": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/egg%20toast.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox70": {
-      "custom": {
-        "text": "$ 6.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox71": {
-      "custom": {
-        "text": "Egg toast"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox72": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image33": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/regular%20soda.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox78": {
-      "custom": {
-        "text": "$ 1.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox79": {
-      "custom": {
-        "text": "Regular Soda"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox80": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "Button18": {
       "custom": {
         "text": "Order Online"
@@ -1539,6 +1144,398 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image228": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/chicken%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox440": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox441": {
+      "custom": {
+        "text": "Chicken Burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox442": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image229": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/chocolate%20milkshake.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox443": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox444": {
+      "custom": {
+        "text": "Choclate Milkshake"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox445": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image230": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/classic%20fries.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox446": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox447": {
+      "custom": {
+        "text": "Classic Fries"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox448": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image231": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/pancakes.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox449": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox450": {
+      "custom": {
+        "text": "Pancakes"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox451": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image236": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/regular%20soda.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox464": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox465": {
+      "custom": {
+        "text": "Regular Soda"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox466": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image237": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/egg%20toast.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox467": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox468": {
+      "custom": {
+        "text": "Egg Toast"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox469": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image238": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/classic%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox470": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox471": {
+      "custom": {
+        "text": "Classic Burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox472": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image239": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/ice%20cream.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox473": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox474": {
+      "custom": {
+        "text": "Ice Cream"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox475": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
       },
       "callbacks": {
         "onClick": [
@@ -1969,13 +1966,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "Input9": {
-      "custom": {
-        "value": "",
-        "placeholder": "Do You Have Any Note For Us ?"
-      },
-      "callbacks": {}
-    },
     "Button29": {
       "custom": {
         "text": "Book a Table"
@@ -2102,9 +2092,16 @@ const desktopModeProps = {
         ]
       }
     },
+    "Input9": {
+      "custom": {
+        "value": "",
+        "placeholder": "Do You Have Any Note For Us ?"
+      },
+      "callbacks": {}
+    },
     "TextBox153": {
       "custom": {
-        "text": "Note"
+        "text": "Add a Note"
       },
       "callbacks": {
         "onClick": [
@@ -2227,7 +2224,7 @@ const desktopModeProps = {
     },
     "Button38": {
       "custom": {
-        "text": "Book a Table"
+        "text": "Follow Us"
       },
       "callbacks": {
         "onClick": [
@@ -3015,15 +3012,6 @@ const desktopModeProps = {
     }
   },
   "aboutUs": {
-    "Flex401": {
-      "callbacks": {}
-    },
-    "Flex399": {
-      "callbacks": {}
-    },
-    "Flex400": {
-      "callbacks": {}
-    },
     "Flex402": {
       "callbacks": {}
     },
@@ -3120,212 +3108,113 @@ const desktopModeProps = {
     "Flex458": {
       "callbacks": {}
     },
-    "Flex472": {
+    "Flex674": {
       "callbacks": {}
     },
-    "Flex470": {
+    "Flex672": {
       "callbacks": {}
     },
-    "Flex467": {
+    "Flex673": {
       "callbacks": {}
     },
-    "Flex465": {
+    "Flex731": {
       "callbacks": {}
     },
-    "Flex461": {
+    "Flex728": {
       "callbacks": {}
     },
-    "Flex462": {
+    "Flex722": {
       "callbacks": {}
     },
-    "Flex466": {
+    "Flex723": {
       "callbacks": {}
     },
-    "Flex463": {
+    "Flex716": {
       "callbacks": {}
     },
-    "Flex464": {
+    "Flex711": {
       "callbacks": {}
     },
-    "Flex468": {
+    "Flex712": {
       "callbacks": {}
     },
-    "Flex469": {
+    "Flex717": {
       "callbacks": {}
     },
-    "Flex471": {
+    "Flex713": {
       "callbacks": {}
     },
-    "Flex493": {
+    "Flex714": {
       "callbacks": {}
     },
-    "Flex490": {
+    "Flex729": {
       "callbacks": {}
     },
-    "Flex484": {
+    "Flex724": {
       "callbacks": {}
     },
-    "Flex485": {
+    "Flex718": {
       "callbacks": {}
     },
-    "Flex478": {
+    "Flex719": {
       "callbacks": {}
     },
-    "Flex473": {
+    "Flex715": {
       "callbacks": {}
     },
-    "Flex474": {
+    "Flex725": {
       "callbacks": {}
     },
-    "Flex479": {
+    "Flex720": {
       "callbacks": {}
     },
-    "Flex475": {
+    "Flex721": {
       "callbacks": {}
     },
-    "Flex476": {
+    "Flex730": {
       "callbacks": {}
     },
-    "Flex491": {
+    "Flex726": {
       "callbacks": {}
     },
-    "Flex486": {
+    "Flex727": {
       "callbacks": {}
     },
-    "Flex480": {
+    "Flex743": {
       "callbacks": {}
     },
-    "Flex481": {
+    "Flex741": {
       "callbacks": {}
     },
-    "Flex477": {
+    "Flex738": {
       "callbacks": {}
     },
-    "Flex487": {
+    "Flex736": {
       "callbacks": {}
     },
-    "Flex482": {
+    "Flex732": {
       "callbacks": {}
     },
-    "Flex483": {
+    "Flex733": {
       "callbacks": {}
     },
-    "Flex492": {
+    "Flex737": {
       "callbacks": {}
     },
-    "Flex488": {
+    "Flex734": {
       "callbacks": {}
     },
-    "Flex489": {
+    "Flex735": {
       "callbacks": {}
     },
-    "Button62": {
-      "custom": {
-        "text": "Order Online"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
+    "Flex739": {
+      "callbacks": {}
     },
-    "Button63": {
-      "custom": {
-        "text": "Reservate"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
+    "Flex740": {
+      "callbacks": {}
     },
-    "Link48": {
-      "custom": {
-        "text": "Home",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/"
-            }
-          }
-        ]
-      }
-    },
-    "Link49": {
-      "custom": {
-        "text": "About",
-        "url": "/aboutUs"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/aboutUs"
-            }
-          }
-        ]
-      }
-    },
-    "Link50": {
-      "custom": {
-        "text": "Menu",
-        "url": "/Our_menu"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Our_menu"
-            }
-          }
-        ]
-      }
-    },
-    "Image157": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/"
-            }
-          }
-        ]
-      }
-    },
-    "TextBox279": {
-      "custom": {
-        "text": "Pages"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox280": {
-      "custom": {
-        "text": "Cart"
-      },
-      "callbacks": {
-        "onClick": []
-      }
+    "Flex742": {
+      "callbacks": {}
     },
     "TextBox281": {
       "custom": {
@@ -3971,10 +3860,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image184": {
+    "Button72": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/6.jpeg"
+        "text": "Order Online"
       },
       "callbacks": {
         "onClick": [
@@ -3984,10 +3872,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image185": {
+    "Button73": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/5.jpeg"
+        "text": "Reservate"
       },
       "callbacks": {
         "onClick": [
@@ -3997,10 +3884,73 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image186": {
+    "Link51": {
+      "custom": {
+        "text": "Home",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "Link52": {
+      "custom": {
+        "text": "About",
+        "url": "/aboutUs"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/aboutUs"
+            }
+          }
+        ]
+      }
+    },
+    "Link53": {
+      "custom": {
+        "text": "Menu",
+        "url": "/Our_menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Our_menu"
+            }
+          }
+        ]
+      }
+    },
+    "Image240": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/3.jpeg"
+        "src": "/app-assets/logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox483": {
+      "custom": {
+        "text": "Pages"
       },
       "callbacks": {
         "onClick": [
@@ -4010,7 +3960,27 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image187": {
+    "TextBox484": {
+      "custom": {
+        "text": "Cart"
+      },
+      "callbacks": {
+        "onClick": []
+      }
+    },
+    "TextBox522": {
+      "custom": {
+        "text": "Follow Us On Instagram"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image258": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/4.jpeg"
@@ -4023,7 +3993,380 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image188": {
+    "Image259": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/3.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image260": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image261": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/6.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox507": {
+      "custom": {
+        "text": "Home"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox508": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox509": {
+      "custom": {
+        "text": "Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox510": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox511": {
+      "custom": {
+        "text": "Blog Post"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox512": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox513": {
+      "custom": {
+        "text": "Delivery"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox506": {
+      "custom": {
+        "text": "Utility"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox514": {
+      "custom": {
+        "text": "Delivery"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox515": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox516": {
+      "custom": {
+        "text": "Menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox517": {
+      "custom": {
+        "text": "Blog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox518": {
+      "custom": {
+        "text": "Blog Post"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox519": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox520": {
+      "custom": {
+        "text": "Home"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox521": {
+      "custom": {
+        "text": "Pages"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox523": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipisc"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image262": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image263": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image264": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image265": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image266": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image267": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image268": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/6.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image269": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/5.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image270": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/3.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image271": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/4.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image272": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/2.jpeg"
@@ -4036,7 +4379,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image189": {
+    "Image273": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/1.jpeg"
@@ -4049,9 +4392,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button67": {
+    "Button77": {
       "custom": {
-        "text": "Book a Table"
+        "text": "Follow Us"
       },
       "callbacks": {
         "onClick": [
@@ -4061,355 +4404,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox337": {
+    "TextBox524": {
       "custom": {
         "text": "Follow US On Instagram"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox354": {
-      "custom": {
-        "text": "Follow Us On Instagram"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image190": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/4.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image191": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/3.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image192": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/5.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image193": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/6.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox339": {
-      "custom": {
-        "text": "Home"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox340": {
-      "custom": {
-        "text": "About"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox341": {
-      "custom": {
-        "text": "Menu"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox342": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox343": {
-      "custom": {
-        "text": "Blog Post"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox344": {
-      "custom": {
-        "text": "Contact"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox345": {
-      "custom": {
-        "text": "Delivery"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox338": {
-      "custom": {
-        "text": "Utility"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox346": {
-      "custom": {
-        "text": "Delivery"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox347": {
-      "custom": {
-        "text": "About"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox348": {
-      "custom": {
-        "text": "Menu"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox349": {
-      "custom": {
-        "text": "Blog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox350": {
-      "custom": {
-        "text": "Blog Post"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox351": {
-      "custom": {
-        "text": "Contact"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox352": {
-      "custom": {
-        "text": "Home"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox353": {
-      "custom": {
-        "text": "Pages"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox355": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipisc"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image194": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image195": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image196": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image197": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image198": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image199": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
       },
       "callbacks": {
         "onClick": [
@@ -4421,15 +4418,6 @@ const desktopModeProps = {
     }
   },
   "Our_menu": {
-    "Flex333": {
-      "callbacks": {}
-    },
-    "Flex331": {
-      "callbacks": {}
-    },
-    "Flex332": {
-      "callbacks": {}
-    },
     "Flex370": {
       "callbacks": {}
     },
@@ -4439,106 +4427,106 @@ const desktopModeProps = {
     "Flex358": {
       "callbacks": {}
     },
-    "Flex368": {
+    "Flex832": {
       "callbacks": {}
     },
-    "Flex359": {
+    "Flex828": {
       "callbacks": {}
     },
-    "Flex334": {
+    "Flex816": {
       "callbacks": {}
     },
-    "Flex335": {
+    "Flex817": {
       "callbacks": {}
     },
-    "Flex336": {
+    "Flex818": {
       "callbacks": {}
     },
-    "Flex360": {
+    "Flex829": {
       "callbacks": {}
     },
-    "Flex337": {
+    "Flex819": {
       "callbacks": {}
     },
-    "Flex338": {
+    "Flex820": {
       "callbacks": {}
     },
-    "Flex339": {
+    "Flex821": {
       "callbacks": {}
     },
-    "Flex361": {
+    "Flex830": {
       "callbacks": {}
     },
-    "Flex340": {
+    "Flex822": {
       "callbacks": {}
     },
-    "Flex341": {
+    "Flex823": {
       "callbacks": {}
     },
-    "Flex342": {
+    "Flex824": {
       "callbacks": {}
     },
-    "Flex362": {
+    "Flex831": {
       "callbacks": {}
     },
-    "Flex343": {
+    "Flex825": {
       "callbacks": {}
     },
-    "Flex344": {
+    "Flex826": {
       "callbacks": {}
     },
-    "Flex345": {
+    "Flex827": {
       "callbacks": {}
     },
-    "Flex369": {
+    "Flex849": {
       "callbacks": {}
     },
-    "Flex363": {
+    "Flex845": {
       "callbacks": {}
     },
-    "Flex346": {
+    "Flex833": {
       "callbacks": {}
     },
-    "Flex347": {
+    "Flex834": {
       "callbacks": {}
     },
-    "Flex348": {
+    "Flex835": {
       "callbacks": {}
     },
-    "Flex364": {
+    "Flex846": {
       "callbacks": {}
     },
-    "Flex349": {
+    "Flex836": {
       "callbacks": {}
     },
-    "Flex350": {
+    "Flex837": {
       "callbacks": {}
     },
-    "Flex351": {
+    "Flex838": {
       "callbacks": {}
     },
-    "Flex365": {
+    "Flex847": {
       "callbacks": {}
     },
-    "Flex352": {
+    "Flex839": {
       "callbacks": {}
     },
-    "Flex353": {
+    "Flex840": {
       "callbacks": {}
     },
-    "Flex354": {
+    "Flex841": {
       "callbacks": {}
     },
-    "Flex366": {
+    "Flex848": {
       "callbacks": {}
     },
-    "Flex355": {
+    "Flex842": {
       "callbacks": {}
     },
-    "Flex356": {
+    "Flex843": {
       "callbacks": {}
     },
-    "Flex357": {
+    "Flex844": {
       "callbacks": {}
     },
     "Flex374": {
@@ -4551,6 +4539,15 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex373": {
+      "callbacks": {}
+    },
+    "Flex677": {
+      "callbacks": {}
+    },
+    "Flex675": {
+      "callbacks": {}
+    },
+    "Flex676": {
       "callbacks": {}
     },
     "Flex395": {
@@ -4615,114 +4612,6 @@ const desktopModeProps = {
     },
     "Flex391": {
       "callbacks": {}
-    },
-    "TextBox229": {
-      "custom": {
-        "text": "Cart"
-      },
-      "callbacks": {
-        "onClick": []
-      }
-    },
-    "TextBox230": {
-      "custom": {
-        "text": "Pages"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image129": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/logo.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/"
-            }
-          }
-        ]
-      }
-    },
-    "Link42": {
-      "custom": {
-        "text": "Menu",
-        "url": "/Our_menu"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/Our_menu"
-            }
-          }
-        ]
-      }
-    },
-    "Link43": {
-      "custom": {
-        "text": "About",
-        "url": "/aboutUs"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/aboutUs"
-            }
-          }
-        ]
-      }
-    },
-    "Link44": {
-      "custom": {
-        "text": "Home",
-        "url": "/"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/"
-            }
-          }
-        ]
-      }
-    },
-    "Button53": {
-      "custom": {
-        "text": "Reservate"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button54": {
-      "custom": {
-        "text": "Order Online"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
     },
     "TextBox255": {
       "custom": {
@@ -4808,252 +4697,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image130": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/chicken%20burger.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox231": {
-      "custom": {
-        "text": "$ 6.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox232": {
-      "custom": {
-        "text": "Chicken Burger"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox233": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image131": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/classic%20burger.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox234": {
-      "custom": {
-        "text": "$ 9.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox235": {
-      "custom": {
-        "text": "Classic Burger"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox236": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image132": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/classic%20fries.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox237": {
-      "custom": {
-        "text": "$ 5.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox238": {
-      "custom": {
-        "text": "Classic Fries"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox239": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image133": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/chocolate%20milkshake.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox240": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox241": {
-      "custom": {
-        "text": "Choclate Milkshake"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox242": {
-      "custom": {
-        "text": "$ 6.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image134": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/ice%20cream.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox243": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox244": {
-      "custom": {
-        "text": "Ice Cream"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox245": {
-      "custom": {
-        "text": "$ 3.99 USD"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image135": {
+    "Image296": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/pancakes.jpeg"
@@ -5066,9 +4710,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox246": {
+    "TextBox579": {
       "custom": {
-        "text": "$ 8.99 USD"
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
       },
       "callbacks": {
         "onClick": [
@@ -5078,7 +4722,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox247": {
+    "TextBox580": {
       "custom": {
         "text": "Pancakes"
       },
@@ -5090,9 +4734,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox248": {
+    "TextBox581": {
       "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+        "text": "$ 6.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -5102,7 +4746,252 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image136": {
+    "Image297": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/classic%20fries.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox582": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox583": {
+      "custom": {
+        "text": "Classic Fries"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox584": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image298": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/chocolate%20milkshake.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox585": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox586": {
+      "custom": {
+        "text": "Choclate Milkshake"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox587": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image299": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/chicken%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox588": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox589": {
+      "custom": {
+        "text": "Chicken Burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox590": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image300": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/ice%20cream.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox591": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox592": {
+      "custom": {
+        "text": "Ice Cream"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox593": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image301": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/classic%20burger.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox594": {
+      "custom": {
+        "text": "$ 6.99 USD"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox595": {
+      "custom": {
+        "text": "Classic Burger"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox596": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image302": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/egg%20toast.jpeg"
@@ -5115,7 +5004,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox249": {
+    "TextBox597": {
       "custom": {
         "text": "$ 6.99 USD"
       },
@@ -5127,9 +5016,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox250": {
+    "TextBox598": {
       "custom": {
-        "text": "Egg toast"
+        "text": "Egg Toast"
       },
       "callbacks": {
         "onClick": [
@@ -5139,9 +5028,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox251": {
+    "TextBox599": {
       "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
       },
       "callbacks": {
         "onClick": [
@@ -5151,7 +5040,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image137": {
+    "Image303": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/regular%20soda.jpeg"
@@ -5164,9 +5053,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox252": {
+    "TextBox600": {
       "custom": {
-        "text": "$ 1.99 USD"
+        "text": "$ 6.99 USD"
       },
       "callbacks": {
         "onClick": [
@@ -5176,7 +5065,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox253": {
+    "TextBox601": {
       "custom": {
         "text": "Regular Soda"
       },
@@ -5188,9 +5077,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox254": {
+    "TextBox602": {
       "custom": {
-        "text": "Lorem ipsum dolor sit amet dolor consectetur adipiscing elit"
+        "text": "Lorem ipsum dolor sit amet dolor consectetur"
       },
       "callbacks": {
         "onClick": [
@@ -5326,6 +5215,114 @@ const desktopModeProps = {
             "sendEventData": true
           }
         ]
+      }
+    },
+    "Button74": {
+      "custom": {
+        "text": "Order Online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button75": {
+      "custom": {
+        "text": "Reservate"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Link54": {
+      "custom": {
+        "text": "Home",
+        "url": "/"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "Link55": {
+      "custom": {
+        "text": "About",
+        "url": "/aboutUs"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/aboutUs"
+            }
+          }
+        ]
+      }
+    },
+    "Link56": {
+      "custom": {
+        "text": "Menu",
+        "url": "/Our_menu"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Our_menu"
+            }
+          }
+        ]
+      }
+    },
+    "Image241": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/logo.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox485": {
+      "custom": {
+        "text": "Pages"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox486": {
+      "custom": {
+        "text": "Cart"
+      },
+      "callbacks": {
+        "onClick": []
       }
     },
     "TextBox276": {

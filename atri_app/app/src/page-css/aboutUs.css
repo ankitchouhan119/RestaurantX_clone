@@ -1,37 +1,8 @@
-.p-aboutUs.Flex401 {
-display: flex;
-justify-content: space-between;
-padding-left: 120px;
-padding-right: 120px;
-padding-top: 30px;
-padding-bottom: 50px;
-font-family: IBM Plex Sans;
-position: sticky;
-background-color: ;
-}
-.p-aboutUs.Flex399 {
-display: flex;
-justify-content: space-around;
-row-gap: ;
-column-gap: 40px;
-}
-.p-aboutUs.Flex400 {
-display: flex;
-justify-content: space-between;
-column-gap: 25px;
-font-family: IBM Plex Sans;
-font-weight: 400;
-color: #655a5a;
-font-size: 20px;
-align-content: stretch;
-flex-wrap: nowrap;
-align-items: stretch;
-align-self: center;
-}
 .p-aboutUs.Flex402 {
 display: flex;
-width: 100%;
+width: ;
 margin-bottom: ;
+margin-top: ;
 }
 .p-aboutUs.Flex403 {
 display: flex;
@@ -44,13 +15,15 @@ margin-bottom: 5px;
 }
 .p-aboutUs.Flex405 {
 display: flex;
-align-items: center;
-justify-content: center;
+align-items: flex-start;
+justify-content: flex-start;
+width: 55%;
 }
 .p-aboutUs.Flex406 {
 display: flex;
 align-items: center;
-justify-content: center;
+justify-content: flex-start;
+width: 55%;
 }
 .p-aboutUs.Flex404 {
 display: flex;
@@ -195,9 +168,9 @@ flex-direction: row;
 align-items: center;
 justify-content: center;
 row-gap: ;
-column-gap: 30px;
+column-gap: 20px;
 align-self: auto;
-width: 100%;
+width: 60%;
 margin-bottom: ;
 }
 .p-aboutUs.Flex433 {
@@ -206,7 +179,7 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 row-gap: 15px;
-width: 400px;
+width: ;
 }
 .p-aboutUs.Flex436 {
 display: flex;
@@ -214,7 +187,7 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 row-gap: 15px;
-width: 400px;
+width: ;
 }
 .p-aboutUs.Flex437 {
 display: flex;
@@ -222,7 +195,7 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 row-gap: 15px;
-width: 400px;
+width: ;
 }
 .p-aboutUs.Flex438 {
 display: flex;
@@ -317,160 +290,38 @@ align-items: center;
 justify-content: center;
 width: 270px;
 }
-.p-aboutUs.Flex472 {
+.p-aboutUs.Flex674 {
 display: flex;
-background-color: #FFF9F3ff;
-justify-content: center;
-padding-left: 150px;
-padding-top: 150px;
-padding-right: 150px;
-padding-bottom: 150px;
-align-items: center;
-box-sizing: content-box;
-flex-direction: column;
-row-gap: 50px;
-margin-bottom: ;
-}
-.p-aboutUs.Flex470 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-align-self: auto;
-position: static;
-width: 100%;
-padding-left: 150px;
-align-content: center;
-}
-.p-aboutUs.Flex467 {
-display: flex;
-row-gap: 20px;
-column-gap: 20px;
-flex-direction: column;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 33.3%;
-padding-left: ;
-height: ;
-}
-.p-aboutUs.Flex465 {
-display: flex;
-row-gap: ;
-column-gap: 20px;
-flex-direction: row;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 100%;
-padding-left: ;
-height: 50%;
-}
-.p-aboutUs.Flex461 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row-reverse;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 50%;
-padding-left: ;
-height: 100%;
-}
-.p-aboutUs.Flex462 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 50%;
-padding-left: ;
-height: 100%;
-}
-.p-aboutUs.Flex466 {
-display: flex;
-row-gap: ;
-column-gap: 20px;
-flex-direction: row;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 100%;
-padding-left: ;
-height: 50%;
-}
-.p-aboutUs.Flex463 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 50%;
-padding-left: ;
-height: 100%;
-}
-.p-aboutUs.Flex464 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row-reverse;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 50%;
-padding-left: ;
-height: 100%;
-}
-.p-aboutUs.Flex468 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row-reverse;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 33.3%;
-padding-left: ;
-}
-.p-aboutUs.Flex469 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row-reverse;
-justify-content: flex-start;
-align-items: center;
-align-self: auto;
-position: static;
-width: 33.3%;
-padding-left: ;
-}
-.p-aboutUs.Flex471 {
-display: flex;
-row-gap: ;
-column-gap: 50px;
-flex-direction: row-reverse;
 justify-content: space-between;
-align-items: center;
-align-self: auto;
-position: static;
-width: 100%;
+padding-left: 120px;
+padding-right: 120px;
+padding-top: 30px;
+padding-bottom: 50px;
+font-family: IBM Plex Sans;
+position: sticky;
+background-color: ;
+width: ;
 }
-.p-aboutUs.Flex493 {
+.p-aboutUs.Flex672 {
+display: flex;
+justify-content: space-around;
+row-gap: ;
+column-gap: 40px;
+}
+.p-aboutUs.Flex673 {
+display: flex;
+justify-content: space-between;
+column-gap: 25px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #655a5a;
+font-size: 20px;
+align-content: stretch;
+flex-wrap: nowrap;
+align-items: center;
+align-self: center;
+}
+.p-aboutUs.Flex731 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -483,8 +334,9 @@ box-sizing: content-box;
 flex-direction: row;
 row-gap: ;
 column-gap: 80px;
+width: ;
 }
-.p-aboutUs.Flex490 {
+.p-aboutUs.Flex728 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -498,7 +350,7 @@ flex-direction: column;
 row-gap: 20px;
 width: 35%;
 }
-.p-aboutUs.Flex484 {
+.p-aboutUs.Flex722 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -512,7 +364,7 @@ flex-direction: column;
 row-gap: ;
 width: 100%;
 }
-.p-aboutUs.Flex485 {
+.p-aboutUs.Flex723 {
 display: flex;
 row-gap: 20px;
 column-gap: 20px;
@@ -525,7 +377,7 @@ width: 100%;
 padding-left: ;
 height: ;
 }
-.p-aboutUs.Flex478 {
+.p-aboutUs.Flex716 {
 display: flex;
 row-gap: ;
 column-gap: 20px;
@@ -538,7 +390,7 @@ width: 100%;
 padding-left: ;
 height: 50%;
 }
-.p-aboutUs.Flex473 {
+.p-aboutUs.Flex711 {
 display: flex;
 row-gap: ;
 column-gap: 50px;
@@ -551,7 +403,7 @@ width: 50%;
 padding-left: ;
 height: 100%;
 }
-.p-aboutUs.Flex474 {
+.p-aboutUs.Flex712 {
 display: flex;
 row-gap: ;
 column-gap: 50px;
@@ -564,7 +416,7 @@ width: 50%;
 padding-left: ;
 height: 100%;
 }
-.p-aboutUs.Flex479 {
+.p-aboutUs.Flex717 {
 display: flex;
 row-gap: ;
 column-gap: 20px;
@@ -577,7 +429,7 @@ width: 100%;
 padding-left: ;
 height: 50%;
 }
-.p-aboutUs.Flex475 {
+.p-aboutUs.Flex713 {
 display: flex;
 row-gap: ;
 column-gap: 50px;
@@ -590,7 +442,7 @@ width: 50%;
 padding-left: ;
 height: 100%;
 }
-.p-aboutUs.Flex476 {
+.p-aboutUs.Flex714 {
 display: flex;
 row-gap: ;
 column-gap: 50px;
@@ -603,7 +455,7 @@ width: 50%;
 padding-left: ;
 height: 100%;
 }
-.p-aboutUs.Flex491 {
+.p-aboutUs.Flex729 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -618,7 +470,7 @@ row-gap: ;
 width: ;
 column-gap: 40px;
 }
-.p-aboutUs.Flex486 {
+.p-aboutUs.Flex724 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -632,7 +484,7 @@ flex-direction: column;
 row-gap: 20px;
 width: 100%;
 }
-.p-aboutUs.Flex480 {
+.p-aboutUs.Flex718 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -645,8 +497,11 @@ box-sizing: content-box;
 flex-direction: column;
 row-gap: 15px;
 width: 100%;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: ;
 }
-.p-aboutUs.Flex481 {
+.p-aboutUs.Flex719 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -660,7 +515,7 @@ flex-direction: column;
 row-gap: ;
 width: 100%;
 }
-.p-aboutUs.Flex477 {
+.p-aboutUs.Flex715 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -674,7 +529,7 @@ flex-direction: column;
 row-gap: ;
 width: 100%;
 }
-.p-aboutUs.Flex487 {
+.p-aboutUs.Flex725 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -688,7 +543,7 @@ flex-direction: column;
 row-gap: 20px;
 width: 100%;
 }
-.p-aboutUs.Flex482 {
+.p-aboutUs.Flex720 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -702,7 +557,7 @@ flex-direction: column;
 row-gap: 15px;
 width: 100%;
 }
-.p-aboutUs.Flex483 {
+.p-aboutUs.Flex721 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -716,7 +571,7 @@ flex-direction: column;
 row-gap: ;
 width: 100%;
 }
-.p-aboutUs.Flex492 {
+.p-aboutUs.Flex730 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -730,13 +585,13 @@ flex-direction: column;
 row-gap: 20px;
 width: ;
 }
-.p-aboutUs.Flex488 {
+.p-aboutUs.Flex726 {
 display: flex;
 row-gap: ;
 column-gap: 8px;
 width: 100%;
 }
-.p-aboutUs.Flex489 {
+.p-aboutUs.Flex727 {
 display: flex;
 background-color: #ffffffff;
 justify-content: center;
@@ -749,113 +604,182 @@ box-sizing: content-box;
 flex-direction: column;
 row-gap: ;
 }
-.p-aboutUs.Button62 {
-color: #000000;
-background-color: #ffffffff;
-padding-top: 15px;
-padding-left: 30px;
-padding-bottom: 15px;
-padding-right: 30px;
-font-size: 20px;
-border-radius: 50px;
-outline: none;
-font-weight: 400;
-text-align: center;
-border-width: 1px;
-border-style: solid;
-border-color: #ccccccff;
-cursor: pointer;
-user-select: none;
-font-family: IBM Plex Sans;
-}
-.p-aboutUs.Button63 {
-color: #fff;
-background-color: #FF7629ff;
-padding-top: 15px;
-padding-left: 30px;
-padding-bottom: 15px;
-padding-right: 30px;
-font-size: 20px;
-border-radius: 50px;
-outline: none;
-font-weight: 400;
-text-align: center;
-border-width: 1px;
-border-style: solid;
-border-color: #fcfeff;
-cursor: pointer;
-user-select: none;
-outline-style: none;
-font-family: IBM Plex Sans;
+.p-aboutUs.Flex743 {
+display: flex;
+background-color: #FFF9F3ff;
+justify-content: center;
+padding-left: 150px;
+padding-top: 150px;
+padding-right: 150px;
+padding-bottom: 150px;
+align-items: center;
+box-sizing: content-box;
+flex-direction: column;
+row-gap: 50px;
 width: ;
 }
-.p-aboutUs.Link48 {
-padding-top: 7px;
-font-family: IBM Plex Sans;
-font-size: 22.5px;
-color: ;
-cursor: auto;
+.p-aboutUs.Flex741 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+align-self: auto;
+position: static;
+width: 100%;
+padding-left: 150px;
+align-content: center;
 }
-.p-aboutUs.Link49 {
-font-family: IBM Plex Sans;
-font-weight: normal;
-font-size: 22.5px;
-padding-top: 7px;
-color: #696969ff;
-border-color: #696969ff;
-}
-.p-aboutUs.Link50 {
-font-size: 22.5px;
-font-family: IBM Plex Sans;
-padding-top: 7px;
-color: #696969ff;
-outline-color: #696969ff;
-}
-.p-aboutUs.Image157 {
-width: 320px;
+.p-aboutUs.Flex738 {
+display: flex;
+row-gap: 20px;
+column-gap: 20px;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 33.3%;
+padding-left: ;
 height: ;
-cursor: pointer;
 }
-.p-aboutUs.TextBox279 {
-font-family: IBM Plex Sans;
-font-weight: ;
-font-size: 22.5px;
-padding-top: 7px;
-width: ;
-cursor: pointer;
-border-color: #696969ff;
+.p-aboutUs.Flex736 {
+display: flex;
+row-gap: ;
+column-gap: 20px;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 100%;
+padding-left: ;
+height: 50%;
 }
-.p-aboutUs.TextBox280 {
-font-family: IBM Plex Sans;
-font-weight: ;
-font-size: 22.5px;
-padding-top: 7px;
-width: ;
-cursor: pointer;
-color: #696969ff;
+.p-aboutUs.Flex732 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row-reverse;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 50%;
+padding-left: ;
+height: 100%;
+}
+.p-aboutUs.Flex733 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 50%;
+padding-left: ;
+height: 100%;
+}
+.p-aboutUs.Flex737 {
+display: flex;
+row-gap: ;
+column-gap: 20px;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 100%;
+padding-left: ;
+height: 50%;
+}
+.p-aboutUs.Flex734 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 50%;
+padding-left: ;
+height: 100%;
+}
+.p-aboutUs.Flex735 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row-reverse;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 50%;
+padding-left: ;
+height: 100%;
+}
+.p-aboutUs.Flex739 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row-reverse;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 33.3%;
+padding-left: ;
+}
+.p-aboutUs.Flex740 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row-reverse;
+justify-content: flex-start;
+align-items: center;
+align-self: auto;
+position: static;
+width: 33.3%;
+padding-left: ;
+}
+.p-aboutUs.Flex742 {
+display: flex;
+row-gap: ;
+column-gap: 50px;
+flex-direction: row-reverse;
+justify-content: space-between;
+align-items: center;
+align-self: auto;
+position: static;
+width: 100%;
 }
 .p-aboutUs.TextBox281 {
 font-family: IBM Plex Sans;
 font-weight: 500;
 font-size: 50px;
 padding-top: 7px;
-width: 55%;
+width: ;
 cursor: auto;
 border-color: #696969ff;
+padding-left: 50px;
 }
 .p-aboutUs.TextBox282 {
 font-family: IBM Plex Sans;
 font-weight: ;
-font-size: 22.5px;
+font-size: 20px;
 padding-top: 7px;
-width: 55%;
+width: ;
 cursor: auto;
 border-color: #696969ff;
 padding-left: 50px;
 color: #696969ff;
 }
 .p-aboutUs.Image158 {
-width: 450px;
+width: 400px;
 border-radius: 40px;
 position: relative;
 top: 100px;
@@ -868,7 +792,7 @@ align-items: center;
 justify-content: center;
 }
 .p-aboutUs.Image161 {
-width: 650px;
+width: 600px;
 border-radius: 40px;
 position: relative;
 bottom: 70px;
@@ -880,10 +804,10 @@ width: 150px;
 width: 100px;
 }
 .p-aboutUs.Image165 {
-width: 250px;
+width: 220px;
 }
 .p-aboutUs.Image166 {
-width: 250px;
+width: 220px;
 }
 .p-aboutUs.TextBox287 {
 font-family: IBM Plex Sans;
@@ -895,7 +819,7 @@ cursor: auto;
 border-color: #696969ff;
 }
 .p-aboutUs.Image167 {
-width: 600px;
+width: 520px;
 border-radius: 40px;
 position: relative;
 bottom: 70px;
@@ -912,7 +836,7 @@ border-color: #696969ff;
 }
 .p-aboutUs.TextBox289 {
 font-family: IBM Plex Sans;
-font-weight: ;
+font-weight: 400;
 font-size: 20px;
 padding-top: 7px;
 width: 80%;
@@ -922,7 +846,7 @@ color: #696969ff;
 }
 .p-aboutUs.TextBox290 {
 font-family: IBM Plex Sans;
-font-weight: ;
+font-weight: 400;
 font-size: 20px;
 padding-top: 7px;
 width: 80%;
@@ -1002,7 +926,7 @@ cursor: auto;
 border-color: #696969ff;
 }
 .p-aboutUs.Image200 {
-width: 600px;
+width: 520px;
 border-radius: 40px;
 position: relative;
 bottom: 70px;
@@ -1029,7 +953,7 @@ color: #696969ff;
 text-align: center;
 }
 .p-aboutUs.Image169 {
-width: 350px;
+width: 300px;
 border-radius: 40px;
 position: static;
 bottom: 70px;
@@ -1038,7 +962,7 @@ align-self: auto;
 .p-aboutUs.TextBox302 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1047,7 +971,7 @@ border-color: #696969ff;
 .p-aboutUs.TextBox303 {
 font-family: IBM Plex Sans;
 font-weight: ;
-font-size: 22.5px;
+font-size: 20px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1057,7 +981,7 @@ color: #FF7629ff;
 .p-aboutUs.TextBox304 {
 font-family: IBM Plex Sans;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: 100%;
 cursor: auto;
@@ -1068,7 +992,7 @@ color: #696969ff;
 .p-aboutUs.TextBox305 {
 font-family: IBM Plex Sans;
 font-weight: ;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1079,7 +1003,7 @@ color: #696969ff;
 .p-aboutUs.TextBox306 {
 font-family: IBM Plex Sans;
 font-weight: ;
-font-size: 22.5px;
+font-size: 20px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1089,14 +1013,14 @@ color: #FF7629ff;
 .p-aboutUs.TextBox307 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
 border-color: #696969ff;
 }
 .p-aboutUs.Image170 {
-width: 350px;
+width: 300px;
 border-radius: 40px;
 position: static;
 bottom: 70px;
@@ -1105,7 +1029,7 @@ align-self: auto;
 .p-aboutUs.TextBox308 {
 font-family: IBM Plex Sans;
 font-weight: ;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1116,7 +1040,7 @@ color: #696969ff;
 .p-aboutUs.TextBox309 {
 font-family: IBM Plex Sans;
 font-weight: ;
-font-size: 22.5px;
+font-size: 20px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1126,14 +1050,14 @@ color: #FF7629ff;
 .p-aboutUs.TextBox310 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
 border-color: #696969ff;
 }
 .p-aboutUs.Image171 {
-width: 350px;
+width: 300px;
 border-radius: 40px;
 position: static;
 bottom: 70px;
@@ -1159,7 +1083,7 @@ align-self: auto;
 .p-aboutUs.TextBox313 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1168,7 +1092,7 @@ border-color: #696969ff;
 .p-aboutUs.TextBox314 {
 font-family: IBM Plex Sans;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1179,7 +1103,7 @@ color: #696969ff;
 .p-aboutUs.TextBox315 {
 font-family: IBM Plex Sans;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1190,7 +1114,7 @@ color: #696969ff;
 .p-aboutUs.TextBox316 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1206,7 +1130,7 @@ align-self: auto;
 .p-aboutUs.TextBox317 {
 font-family: IBM Plex Sans;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1217,7 +1141,7 @@ color: #696969ff;
 .p-aboutUs.TextBox318 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1240,7 +1164,7 @@ align-self: auto;
 .p-aboutUs.TextBox331 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1249,7 +1173,7 @@ border-color: #696969ff;
 .p-aboutUs.TextBox332 {
 font-family: IBM Plex Sans;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1267,7 +1191,7 @@ align-self: auto;
 .p-aboutUs.TextBox333 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1276,7 +1200,7 @@ border-color: #696969ff;
 .p-aboutUs.TextBox334 {
 font-family: IBM Plex Sans;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1287,7 +1211,7 @@ color: #696969ff;
 .p-aboutUs.TextBox335 {
 font-family: IBM Plex Sans;
 font-weight: 400;
-font-size: 20px;
+font-size: 18px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1298,7 +1222,7 @@ color: #696969ff;
 .p-aboutUs.TextBox336 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 25px;
+font-size: 22.5px;
 padding-top: 7px;
 width: ;
 cursor: auto;
@@ -1311,37 +1235,273 @@ position: static;
 bottom: 70px;
 align-self: auto;
 }
-.p-aboutUs.Image184 {
+.p-aboutUs.Button72 {
+color: #000000;
+background-color: #ffffffff;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 15px;
+padding-right: 30px;
+font-size: 20px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ccccccff;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+}
+.p-aboutUs.Button73 {
+color: #fff;
+background-color: #FF7629ff;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 15px;
+padding-right: 30px;
+font-size: 20px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #fcfeff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+font-family: IBM Plex Sans;
+width: ;
+}
+.p-aboutUs.Link51 {
+padding-top: ;
+font-family: IBM Plex Sans;
+font-size: 22.5px;
+color: ;
+cursor: auto;
+}
+.p-aboutUs.Link52 {
+font-family: IBM Plex Sans;
+font-weight: normal;
+font-size: 22.5px;
+padding-top: ;
+color: #696969ff;
+border-color: #696969ff;
+}
+.p-aboutUs.Link53 {
+font-size: 22.5px;
+font-family: IBM Plex Sans;
+padding-top: ;
+color: #696969ff;
+outline-color: #696969ff;
+}
+.p-aboutUs.Image240 {
+width: 300px;
+height: ;
+cursor: pointer;
+}
+.p-aboutUs.TextBox483 {
+font-family: IBM Plex Sans;
+font-weight: ;
+font-size: 22.5px;
+padding-top: ;
+width: ;
+cursor: pointer;
+border-color: #696969ff;
+}
+.p-aboutUs.TextBox484 {
+font-family: IBM Plex Sans;
+font-weight: ;
+font-size: 22.5px;
+padding-top: ;
+width: ;
+cursor: pointer;
+color: #696969ff;
+}
+.p-aboutUs.TextBox522 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 25px;
+padding-top: ;
+width: 100%;
+}
+.p-aboutUs.Image258 {
 width: 100%;
 height: 100%;
 border-radius: 20px;
 }
-.p-aboutUs.Image185 {
+.p-aboutUs.Image259 {
 width: 100%;
 height: 100%;
 border-radius: 20px;
 }
-.p-aboutUs.Image186 {
+.p-aboutUs.Image260 {
 width: 100%;
 height: 100%;
 border-radius: 20px;
 }
-.p-aboutUs.Image187 {
+.p-aboutUs.Image261 {
 width: 100%;
 height: 100%;
 border-radius: 20px;
 }
-.p-aboutUs.Image188 {
+.p-aboutUs.TextBox507 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox508 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox509 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox510 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox511 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox512 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox513 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox506 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 25px;
+align-self: flex-start;
+}
+.p-aboutUs.TextBox514 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox515 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox516 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox517 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox518 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox519 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox520 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+}
+.p-aboutUs.TextBox521 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 25px;
+align-self: flex-start;
+}
+.p-aboutUs.TextBox523 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+color: #696969ff;
+width: 100%;
+padding-left: ;
+padding-bottom: ;
+}
+.p-aboutUs.Image262 {
+width: 30px;
+}
+.p-aboutUs.Image263 {
+width: 30px;
+}
+.p-aboutUs.Image264 {
+width: 30px;
+}
+.p-aboutUs.Image265 {
+width: 30px;
+}
+.p-aboutUs.Image266 {
+width: 30px;
+}
+.p-aboutUs.Image267 {
+width: 100%;
+height: 50px;
+}
+.p-aboutUs.Image268 {
+width: 100%;
+height: 100%;
+border-radius: 20px;
+}
+.p-aboutUs.Image269 {
+width: 100%;
+height: 100%;
+border-radius: 20px;
+}
+.p-aboutUs.Image270 {
+width: 100%;
+height: 100%;
+border-radius: 20px;
+}
+.p-aboutUs.Image271 {
+width: 100%;
+height: 100%;
+border-radius: 20px;
+}
+.p-aboutUs.Image272 {
 width: 100%;
 height: 100%;
 border-radius: 40px;
 }
-.p-aboutUs.Image189 {
+.p-aboutUs.Image273 {
 width: 100%;
 height: 100%;
 border-radius: 40px;
 }
-.p-aboutUs.Button67 {
+.p-aboutUs.Button77 {
 color: #ffffffff;
 background-color: #FF7629ff;
 padding-top: 15px;
@@ -1362,174 +1522,25 @@ font-family: IBM Plex Sans;
 position: static;
 left: 100px;
 }
-.p-aboutUs.TextBox337 {
+.p-aboutUs.TextBox524 {
 font-family: IBM Plex Sans;
 font-weight: 700;
-font-size: 40px;
+font-size: 30px;
 position: static;
 right: 100px;
 }
-.p-aboutUs.TextBox354 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 30px;
-padding-top: ;
-width: 100%;
-}
-.p-aboutUs.Image190 {
-width: 100%;
-height: 100%;
-border-radius: 20px;
-}
-.p-aboutUs.Image191 {
-width: 100%;
-height: 100%;
-border-radius: 20px;
-}
-.p-aboutUs.Image192 {
-width: 100%;
-height: 100%;
-border-radius: 20px;
-}
-.p-aboutUs.Image193 {
-width: 100%;
-height: 100%;
-border-radius: 20px;
-}
-.p-aboutUs.TextBox339 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox340 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox341 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox342 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox343 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox344 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox345 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox338 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 30px;
-}
-.p-aboutUs.TextBox346 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox347 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox348 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox349 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox350 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox351 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox352 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-}
-.p-aboutUs.TextBox353 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 30px;
-}
-.p-aboutUs.TextBox355 {
-font-family: IBM Plex Sans;
-font-weight: 400;
-font-size: 22.5px;
-color: #696969ff;
-width: 100%;
-padding-left: ;
-padding-bottom: ;
-}
-.p-aboutUs.Image194 {
-width: 30px;
-}
-.p-aboutUs.Image195 {
-width: 30px;
-}
-.p-aboutUs.Image196 {
-width: 30px;
-}
-.p-aboutUs.Image197 {
-width: 30px;
-}
-.p-aboutUs.Image198 {
-width: 30px;
-}
-.p-aboutUs.Image199 {
-width: 100%;
-height: 50px;
-}
 @media screen and (max-width: 767px) {
-	.p-aboutUs.Flex401.bpt {
+	.p-aboutUs.Flex674.bpt {
 justify-content: flex-start;
 align-items: stretch;
 flex-direction: column;
 	}
 }
 @media screen and (max-width: 478px) {
-	.p-aboutUs.Image157.bpt {
+	.p-aboutUs.Image240.bpt {
 align-self: auto;
 	}
-	.p-aboutUs.Image199.bpt {
+	.p-aboutUs.Image267.bpt {
 align-self: auto;
 	}
 }

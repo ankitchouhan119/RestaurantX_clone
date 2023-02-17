@@ -1,0 +1,112 @@
+.p-about.Flex315 {
+display: flex;
+justify-content: space-between;
+padding-left: 120px;
+padding-right: 120px;
+padding-top: 30px;
+padding-bottom: 50px;
+font-family: IBM Plex Sans;
+position: sticky;
+background-color: ;
+}
+.p-about.Flex313 {
+display: flex;
+justify-content: space-around;
+row-gap: ;
+column-gap: 40px;
+}
+.p-about.Flex314 {
+display: flex;
+justify-content: space-between;
+column-gap: 25px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #655a5a;
+font-size: 20px;
+align-content: stretch;
+flex-wrap: nowrap;
+align-items: stretch;
+align-self: center;
+}
+.p-about.Button41 {
+color: #000000;
+background-color: #ffffffff;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 15px;
+padding-right: 30px;
+font-size: 20px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ccccccff;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+}
+.p-about.Button42 {
+color: #fff;
+background-color: #FF7629ff;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 15px;
+padding-right: 30px;
+font-size: 20px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #fcfeff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+font-family: IBM Plex Sans;
+width: ;
+}
+.p-about.Link14 {
+padding-top: 7px;
+font-family: IBM Plex Sans;
+font-size: 22.5px;
+}
+.p-about.Link15 {
+font-family: IBM Plex Sans;
+font-weight: normal;
+font-size: 22.5px;
+padding-top: 7px;
+}
+.p-about.Link16 {
+font-size: 22.5px;
+font-family: IBM Plex Sans;
+padding-top: 7px;
+}
+.p-about.Link17 {
+font-family: IBM Plex Sans;
+font-size: 22.5px;
+padding-top: 7px;
+}
+.p-about.Link18 {
+font-family: IBM Plex Sans;
+font-size: 22.5px;
+padding-top: 7px;
+}
+.p-about.Image123 {
+width: 320px;
+height: ;
+}
+@media screen and (max-width: 767px) {
+	.p-about.Flex315.bpt {
+justify-content: flex-start;
+align-items: stretch;
+flex-direction: column;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-about.Image123.bpt {
+align-self: auto;
+	}
+}

@@ -1,0 +1,81 @@
+a:link { 
+    text-decoration: none;
+ }
+
+ .p-Home.Flex398 a:hover{
+    color: brown;
+}
+
+.p-Home.TextBox278:hover{
+    color: brown;
+}
+
+.p-Home.TextBox277:hover{
+    color: brown;
+}
+
+.p-Home.Flex398 a{
+    color: #696969;
+}
+
+.p-aboutUs.Flex400 a{
+    color: #696969;
+}
+
+.p-aboutUs.Flex400 a:hover{
+    color: brown;
+}
+.p-aboutUs.TextBox279:hover{
+    color: brown;
+}
+.p-aboutUs.TextBox280:hover{
+    color: brown;
+}
+
+.p-Our_menu.Flex331 a{
+    color: #696969;
+}
+.p-Our_menu.Flex331 a:hover{
+    color: brown;
+}
+.p-Our_menu.TextBox230:hover{
+    color: brown;
+}
+.p-Our_menu.TextBox229:hover{
+    color: brown;
+}
+
+
+.p-Home.Flex22 a{
+    color: #FF7629;
+}
+
+.p-Home.Image1 {  
+    cursor: pointer;
+}
+.p-Home.Image8{
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    position: relative;
+    right: 250px;
+}
+
+
+
+.p-Home.Flex35 {
+    
+   
+    position: relative;
+    right: 250px;
+    top: 300px;
+}
+
+
+
+
+

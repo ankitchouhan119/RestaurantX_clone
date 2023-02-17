@@ -1,0 +1,112 @@
+.p-Menu.Flex318 {
+display: flex;
+justify-content: space-between;
+padding-left: 120px;
+padding-right: 120px;
+padding-top: 30px;
+padding-bottom: 50px;
+font-family: IBM Plex Sans;
+position: sticky;
+background-color: ;
+}
+.p-Menu.Flex316 {
+display: flex;
+justify-content: space-around;
+row-gap: ;
+column-gap: 40px;
+}
+.p-Menu.Flex317 {
+display: flex;
+justify-content: space-between;
+column-gap: 25px;
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #655a5a;
+font-size: 20px;
+align-content: stretch;
+flex-wrap: nowrap;
+align-items: stretch;
+align-self: center;
+}
+.p-Menu.Button43 {
+color: #000000;
+background-color: #ffffffff;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 15px;
+padding-right: 30px;
+font-size: 20px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #ccccccff;
+cursor: pointer;
+user-select: none;
+font-family: IBM Plex Sans;
+}
+.p-Menu.Button44 {
+color: #fff;
+background-color: #FF7629ff;
+padding-top: 15px;
+padding-left: 30px;
+padding-bottom: 15px;
+padding-right: 30px;
+font-size: 20px;
+border-radius: 50px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #fcfeff;
+cursor: pointer;
+user-select: none;
+outline-style: none;
+font-family: IBM Plex Sans;
+width: ;
+}
+.p-Menu.Link19 {
+padding-top: 7px;
+font-family: IBM Plex Sans;
+font-size: 22.5px;
+}
+.p-Menu.Link20 {
+font-family: IBM Plex Sans;
+font-weight: normal;
+font-size: 22.5px;
+padding-top: 7px;
+}
+.p-Menu.Link21 {
+font-size: 22.5px;
+font-family: IBM Plex Sans;
+padding-top: 7px;
+}
+.p-Menu.Link22 {
+font-family: IBM Plex Sans;
+font-size: 22.5px;
+padding-top: 7px;
+}
+.p-Menu.Link23 {
+font-family: IBM Plex Sans;
+font-size: 22.5px;
+padding-top: 7px;
+}
+.p-Menu.Image124 {
+width: 320px;
+height: ;
+}
+@media screen and (max-width: 767px) {
+	.p-Menu.Flex318.bpt {
+justify-content: flex-start;
+align-items: stretch;
+flex-direction: column;
+	}
+}
+@media screen and (max-width: 478px) {
+	.p-Menu.Image124.bpt {
+align-self: auto;
+	}
+}

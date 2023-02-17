@@ -1,0 +1,25 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/": {
+      "name": "Home"
+    },
+    "/about": {
+      "name": "about"
+    },
+    "/Menu": {
+      "name": "Menu"
+    },
+    "/aboutUs": {
+      "name": "aboutUs"
+    },
+    "/Our_menu": {
+      "name": "Our_menu"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "..\\assets"
+  }
+}

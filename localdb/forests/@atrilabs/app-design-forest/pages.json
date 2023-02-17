@@ -1,0 +1,22 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "65e53e00-5013-474b-98af-70c1f4b0a8b0": {
+    "name": "about",
+    "route": "/about"
+  },
+  "2cee8440-0017-47fd-b22c-d9ba8e9a40ee": {
+    "name": "Menu",
+    "route": "/Menu"
+  },
+  "1c8f539f-c8f1-476b-9832-39a9feae511c": {
+    "name": "aboutUs",
+    "route": "/aboutUs"
+  },
+  "52d0f967-6af2-437f-bc33-18d9baed6666": {
+    "name": "Our_menu",
+    "route": "/Our_menu"
+  }
+}
